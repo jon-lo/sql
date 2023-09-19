@@ -1,0 +1,6 @@
+# checkout a new branch with '-b' specification
+# https://git-scm.com/docs/git-checkout
+git checkout -b
+
+
+
